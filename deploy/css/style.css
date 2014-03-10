@@ -1,0 +1,7 @@
+h1 {font-family: 'Open Sans', sans-serif;}
+
+p {font-family: 'Baumans', cursive;}
+
+*.hidden {
+    visibility:hidden;
+}
